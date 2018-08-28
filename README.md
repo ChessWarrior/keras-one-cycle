@@ -1,3 +1,7 @@
+# Pred-rain fork
+TODO: Remove manual validation set evaluation by retrieving from [logs](https://keras.io/callbacks/#callback)
+Because we are using TFRecord for validation, the evaluation mechanism should be adapted to the tensorflow way.
+
 # One Cycle Learning Rate Policy for Keras
 Implementation of One-Cycle Learning rate policy from the papers by Leslie N. Smith.
 
